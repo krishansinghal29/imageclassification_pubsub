@@ -6,7 +6,7 @@
 
 `cd imageclassification_pubsub`
 
-**Setting up python environment. Install python3 before running this command**
+**Setting up python environment. Install python3 before running this command if not already installed**
 
 `python3 -m venv pyenv1`
 
