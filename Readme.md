@@ -1,11 +1,7 @@
-Cloning the repository:
-git clone https://github.com/krishansinghal29/imageclassification_pubsub.git
-Setting up python environment:
-python -m venv pyenv1
-Shifting to python environment:
-source pyenv1/bin/activate
-Installing the required dependencies:
-pip install requirements.txt
+Cloning the repository:	git clone https://github.com/krishansinghal29/imageclassification_pubsub.git
+Setting up python environment: python -m venv pyenv1
+Shifting to python environment: source pyenv1/bin/activate
+Installing the required dependencies: pip install requirements.txt
 
 The following functions are supported by the library:
 All the following commands should be executed from root of repo
