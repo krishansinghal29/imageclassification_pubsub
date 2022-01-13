@@ -14,7 +14,9 @@
 
 `pip install requirements.txt`
 
-**The following functions are supported by the library. All the following commands should be executed from root of repository.**
+**The following functions are supported by the library:**
+
+All the following commands should be executed from root of repository
 
 1. Training the model
    
