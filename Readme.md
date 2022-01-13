@@ -6,7 +6,7 @@
 
 `cd imageclassification_pubsub`
 
-**Setting up python environment**
+**Setting up python environment. Install python3 before running this command**
 
 `python3 -m venv pyenv1`
 
@@ -34,7 +34,7 @@ All the following commands should be executed from root of repository
 
    If training on a custom dataset, the train data should be stored in the data/train_data folder.
 
-   data/train_data should contain subfolders containing images for each class.
+   data/train_data should contain subfolders, each subfolder containing images for each label class.
 
 2. Testing the model
 
@@ -47,7 +47,7 @@ All the following commands should be executed from root of repository
    `python3 src/main.py test False`
 
    If testing on a custom dataset, the test data should be stored in the data/test_data folder.
-   data/test_data should contain subfolders containing images for each class.
+   data/test_data should contain subfolders, each subfolder containing images for each label class.
 
 3. Performing prediction on single image
 
